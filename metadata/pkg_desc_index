@@ -1,1 +1,2 @@
 app-misc/devify 1.0 1.1: Device notification system using udev rules for monitoring connections
+dev-cpp/cpplint 1.6.1: Static code checker for C++ (fork of Google's cpplint
