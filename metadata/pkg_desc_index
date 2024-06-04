@@ -2,6 +2,7 @@ app-misc/devify 1.0 1.1 1.1-r1: Device notification system using udev rules for 
 dev-cpp/cpplint 1.6.1: Static code checker for C++ (fork of Google's cpplint
 dev-python/mininet 2.3.0: Emulator for rapid prototyping of Software Defined Networks
 dev-util/byexample 10.5.6: Write snippets of code in C++, Python, Ruby, and others as documentation and execute them as regression tests.
+dev-util/mnexec 2.3.0: Emulator for rapid prototyping of Software Defined Networks
 dev-util/termscraper 0.10.0: Simple VTXXX-compatible terminal emulator scraper.
 dev-util/tiburoncin 2.2.2: Small man in the middle tool to inspect the traffic between two endpoints A and B
 media-libs/libSDL2pp 0.18.1-r1: C++ bindings/wrapper for SDL2
