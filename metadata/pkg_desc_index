@@ -1,5 +1,8 @@
 app-misc/devify 1.0 1.1 1.1-r1: Device notification system using udev rules for monitoring connections
 dev-cpp/cpplint 1.6.1: Static code checker for C++ (fork of Google's cpplint
+dev-python/basemap 1.4.1: Plot on map projections
+dev-python/basemap-data 1.4.1: Plot on map projections
+dev-python/basemap-data-hires 1.4.1: Plot on map projections
 dev-python/mininet 2.3.0: Emulator for rapid prototyping of Software Defined Networks
 dev-util/byexample 10.5.6: Write snippets of code in C++, Python, Ruby, and others as documentation and execute them as regression tests.
 dev-util/mnexec 2.3.0: Emulator for rapid prototyping of Software Defined Networks
