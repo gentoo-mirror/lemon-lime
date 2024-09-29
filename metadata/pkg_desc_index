@@ -1,5 +1,6 @@
 app-misc/devify 1.0 1.1 1.1-r1: Device notification system using udev rules for monitoring connections
 dev-cpp/cpplint 1.6.1: Static code checker for C++ (fork of Google's cpplint
+dev-lang/uiua 0.12.3: A stack-based array programming language
 dev-python/basemap 1.4.1: Plot on map projections
 dev-python/basemap-data 1.4.1: Plot on map projections
 dev-python/basemap-data-hires 1.4.1: Plot on map projections
