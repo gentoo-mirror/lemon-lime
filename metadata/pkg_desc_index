@@ -1,5 +1,6 @@
 app-emacs/uiua-mode 0.1.0: Emacs mode for uiua, a stack-based array language
 app-misc/devify 1.0 1.1 1.1-r1: Device notification system using udev rules for monitoring connections
+app-office/ledger 3.3.2-r2: Double-entry accounting system with a command-line reporting interface
 dev-cpp/cpplint 1.6.1: Static code checker for C++ (fork of Google's cpplint
 dev-lang/uiua 0.12.3: A stack-based array programming language
 dev-python/basemap 1.4.1: Plot on map projections
