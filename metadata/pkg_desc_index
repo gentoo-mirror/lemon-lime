@@ -11,3 +11,4 @@ dev-util/mnexec 2.3.0: Emulator for rapid prototyping of Software Defined Networ
 dev-util/termscraper 0.10.0: Simple VTXXX-compatible terminal emulator scraper.
 dev-util/tiburoncin 2.2.2: Small man in the middle tool to inspect the traffic between two endpoints A and B
 media-libs/libSDL2pp 0.18.1-r1: C++ bindings/wrapper for SDL2
+media-radio/qlog 0.40.1: Amateur radio logbook software
