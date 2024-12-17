@@ -10,5 +10,5 @@ LICENSE=MIT
 RDEPEND=x11-libs/libnotify
 SLOT=0
 SRC_URI=https://github.com/pog102/devify/archive/refs/tags/v1.0.tar.gz
-_eclasses_=toolchain-funcs	fa554cc3cff825d21dfe3f24841e29cf	multilib	b2a329026f2e404e9e371097dda47f96	udev	f3d9a4376ebd22131726a68e1a0a058f
+_eclasses_=toolchain-funcs	14648d8795f7779e11e1bc7cf08b7536	multilib	b2a329026f2e404e9e371097dda47f96	udev	f3d9a4376ebd22131726a68e1a0a058f
 _md5_=d982044bf7fd2d7095e3344f0096c6b0
