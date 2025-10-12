@@ -10,5 +10,5 @@ LICENSE=MIT
 RDEPEND=x11-libs/libnotify media-libs/libcanberra
 SLOT=0
 SRC_URI=https://github.com/pog102/devify/archive/refs/tags/V1.1.tar.gz
-_eclasses_=toolchain-funcs	a0b29008c671a362b505f96fa80ce9c0	udev	f3d9a4376ebd22131726a68e1a0a058f
+_eclasses_=toolchain-funcs	98d9f464d912ae6b7316fb8a3721f5db	udev	f3d9a4376ebd22131726a68e1a0a058f
 _md5_=4765f4becf199c0302bf9448e1173e55
